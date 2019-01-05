@@ -1,0 +1,33 @@
+/*font-family: 'Charm', cursive;*/
+@font-face{
+	font-family: Brastagi;
+	src: url(../fonts/Brastagi.otf);
+}
+@font-face{
+	font-family: Vitalias;
+	src: url(../fonts/Vitalias.otf);
+}
+.fonts {
+
+}
+
+.cdn {
+
+}
+.cdn p{
+	font-family: 'Charm', cursive;
+}
+
+.downlaod1 {
+
+}
+.downlaod1 p{
+	font-family: Brastagi;
+}
+
+.download2 {
+
+}
+.download2 p{
+	font-family: Vitalias;
+}
